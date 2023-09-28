@@ -1,2 +1,3 @@
 este es el archivo 2
 esto es una nueva linea en el archivo 2
+tercera linea
